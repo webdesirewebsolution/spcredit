@@ -1,0 +1,44 @@
+.carouselitem img{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+}
+.carouselitem{
+    height: 563px;
+} 
+.itemscenter h1{
+    color: white;
+    font-size: 76px;
+    font-family: initial;
+    font-weight: 500;
+}
+.itemscenter{
+    text-align: center;
+    margin-top: 170px;
+}
+.itemscenter p{
+    font-size: -webkit-xxx-large;
+    color: white;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 480px) {
+    .carouselslide{
+       width: 883px;
+    }
+    
+  }
+  @media screen and (max-width: 200px) {
+    .carouselslide{
+       width:  554px;
+    }
+    
+  }
+  @media screen and (max-width: 767px) {
+    .carouselslide{
+       width: 1349px;
+    }
+    
+  }

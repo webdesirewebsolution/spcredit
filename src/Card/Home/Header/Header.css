@@ -1,0 +1,29 @@
+.navitem{
+    font-size: 17px;
+    font-weight: 640;
+}
+.containerfluid img{
+    width: 82px;
+}
+
+ a:hover {
+    /* background-color: yellow; */
+    color: red;
+  }
+
+  .navitem a {
+    text-decoration: none;
+  }
+  .navitem button{
+    border-style: none;
+    background-color: white;
+    font-size: initial;
+    font-weight: 500;
+  }
+
+   button:hover {
+    color: #eb5d38;
+  }
+  .applytopimg img{
+    width: -webkit-fill-available;
+  }

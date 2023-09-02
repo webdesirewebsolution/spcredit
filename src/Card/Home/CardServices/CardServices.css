@@ -1,0 +1,7 @@
+.servicelist a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.servicelist li{
+    margin-bottom: 8px;
+}
